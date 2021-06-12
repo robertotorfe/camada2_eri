@@ -1,0 +1,1 @@
+¿Quién inventó el sistema de control de versión Git y por qué? R/Creado por Linux Torvalds, fue utilizado para ser utilizado en el desarrollo del kernel de linux
