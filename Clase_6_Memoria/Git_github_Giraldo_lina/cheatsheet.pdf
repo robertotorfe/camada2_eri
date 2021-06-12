@@ -1,0 +1,18 @@
+*git config user.name --global "Nombre_usuario" -----> para cambiar o configurar el nombre de usuario de git de manera permanente
+*git config user.email --global "Correo" ------>Para cambiar o configurar el correo de git de manera permanente
+*git config user.name ----> Para ver el usuario con el que se esta trabajando en git
+*git config user.email ----> Para ver el correo con el que se esta trabajando en git
+*git init -----> para inicializar un repositorio local 
+*git clone <URL> ----> Para clonar un repositorio remoto
+*git remote -v ------> Para ver el repositorio remoto que se esta usando
+*git add <direccion_de_carpeta> -------> para poner un/unos archivos en seguimiento
+*git commit -m "Comentario del commit" -----> para hacer un commit (guardar y crear un punto en la linea temporal de las versiones).
+*git status -------> para ver como estan los archivos del repositorio (en commit o en staging)
+*git rm <nombre_archivo> ------> para borrar un archivo
+*git log ----> se ve el historial de los ultimos commits
+*git log --all --oneline --graph ----> se ve el historial de los todos los commit en una linea por commit en forma de grafico de arbol
+*git branch <Nombre_rama> -----> Para crear una rama
+*git checkout <Nombre_rama> -----> para cambiarse de rama
+*git pull origin <Rama> ----> Para traer todos los cambios de un repositorio remoto al local
+*git push origin <Rama> ----> Para mandar los cambios del repositorio local al remoto (origin)
+
