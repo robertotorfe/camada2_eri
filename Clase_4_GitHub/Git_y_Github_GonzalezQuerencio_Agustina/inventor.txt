@@ -8,8 +8,8 @@ El mantenimiento del software Git está actualmente (2009) supervisado por Junio
 b)¿A quién pertenece actualmente Github y por qué?
 El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares.En el 2015 la valoración de la compañía era de 2 billones de dólares, hoy en día es la plataforma más importante de colaboración para proyectos Open Source .
 *GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc. Anteriormente era conocida como Logical Awesome LLC. El código de los proyectos alojados en GitHub se almacena típicamente de forma pública.
-*Ruby on Railses un framework de aplicaciones web de código abierto escrito en el lenguaje de programación Ruby, siguiendo el paradigma del patrón Modelo Vista Controlador (MVC). Trata de combinar la simplicidad con la posibilidad de desarrollar aplicaciones del mundo real escribiendo menos código que con otros frameworks y con un mínimo de configuración.
+*Ruby on Railses es un framework de aplicaciones web de código abierto escrito en el lenguaje de programación Ruby, siguiendo el paradigma del patrón Modelo Vista Controlador (MVC). Trata de combinar la simplicidad con la posibilidad de desarrollar aplicaciones del mundo real escribiendo menos código que con otros frameworks y con un mínimo de configuración.
 
 c)¿Hay otra forma que no sea la terminal para trabajar con Github?
-
+Sí, GitHub tiene una interfaz gráfica de escritorio para descargar que el usuario podría utlizar y directamente subir o clonar repositorios sin necesidad de escribir en la terminal. 
 
