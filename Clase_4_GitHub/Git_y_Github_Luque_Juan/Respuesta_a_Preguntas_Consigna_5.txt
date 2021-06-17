@@ -1,0 +1,5 @@
+a. Creado por Linux Torvalds, buscando la eficiencia y confiabilidad en compartir información y trabajo colaborativo.
+b. Pertenece a Microsoft, para contribuir a realizar y desarrollar la comunidad mas grande del mundo de desarrolladores
+c. Es esencial una terminal para trabajar en GitHub
+
+
