@@ -1,0 +1,3 @@
+Después de realizar un proceso de investigación con mis compañeros y de analizar las diferentes características de los computadores y de los requerimientos concluimos que el procesador intel i3 3230 debe ser asignado a Marcelo ya que es el que tiene características más básicas y el solo requiere utilizar la suite de office.
+
+Para la asignación de los otros 2 procesadores fue un poco más complicado ya que tanto el diseño como los videojuegos son dos aspectos que requieren mucha capacidad de un computador. Después de analizar específicamente los requerimientos de cada uno, descubrimos que El juego cyberpunk requiere demasiado poder y por ese hecho decidimos asignarle el Amd Ryzen 5y dejar el Amd a8para el programa de dieseño. 

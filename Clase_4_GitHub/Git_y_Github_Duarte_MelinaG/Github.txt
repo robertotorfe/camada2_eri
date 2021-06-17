@@ -1,0 +1,8 @@
+¿Qúién inventó el sistema de control de versión Git y por qué?
+Lo inventó Linux Tolvars y Junio Hamano quienes son los creadores de LINUX, los cuales manejaban versiones del sistema operativo.pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+
+¿A quién le pertenece?
+Le pertenece a Microsoft. Microsoft se ha comprometido a empoderar a las comunidades de desarrolladores, por eso su interés en comprarla
+ 
+¿Hay otra forma que no sea la terminal para trabajat con GiHub?
+Si, como Visual Studio Code
