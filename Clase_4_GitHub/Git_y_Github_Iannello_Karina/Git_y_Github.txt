@@ -1,3 +1,0 @@
-a. Creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux
-b. Github pertenece a Microsoft. 
-c. Si. 
