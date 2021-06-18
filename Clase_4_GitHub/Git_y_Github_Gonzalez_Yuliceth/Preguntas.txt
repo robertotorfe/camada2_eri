@@ -1,0 +1,3 @@
+a Linus Torvalds porque con esto se registrar los cambios que ocurren en el código fuente de un proyecto. De esta forma, permite que los archivos sean alterados de forma simultánea, por innúmeras personas, sin la preocupación de que esos cambios sean sobrescritos por otras personas.
+b.Microsoft compra GitHub, la compra la hizo Microsoft una de las empresas mas grandes y poderosas del mundo. Con el objetivo de reaizar un sinumeros de acciones en un sitema integrado de programas de una misma empresa.
+c. si se puede trabajar GitHub sin necesidad de utilizar la terminal, descargando el programa al computador y ejecutando acciones con el mouse como cualquier otro programa
