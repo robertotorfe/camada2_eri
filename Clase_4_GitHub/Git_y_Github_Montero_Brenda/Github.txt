@@ -1,0 +1,6 @@
+¿Quien invento el sistema de control Git y por qué?
+Linus Torvalds, para buscar la eficiencia y confiabilidad en compartir información en grupos de trabajo
+¿A quien pertenece GitHub y por que? 
+A microsoft, porque lo compro
+¿Hay otra forma que no sea la terminal para trabajar con github?
+Si, existen herramientas con interfaces de usuarios para trabajar con github
