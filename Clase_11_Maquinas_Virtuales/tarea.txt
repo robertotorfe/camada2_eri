@@ -1,0 +1,20 @@
+1. Describan con sus palabras que acaban de hacer
+
+Revisamos la conexion a internet mediante el comando "ping".
+Accedimos al usuario root mediante el comando "su root"
+Instalamos GIT con el comando "apt-get install"
+Se clono el repositorio con "git clone"
+Accedimos a nuestra rama con "git checkout"
+Y finalmente creamos este archivo dentro de su carpeta correspondiente con el c$
+
+2. Describir para que sirve "apt-get"
+
+Es el comando que se utiliza para administrar los paquetes instalados en el S.O$
+
+3. Describir para que sirve "su".
+
+Nos sirve para entrar al usuario root, que nos brinda mayores privilegios frent$
+
+4. Les resulto familiar esta forma de conectarse a un equipo?
+
+No, es parecido a lo que ya veniamos haciendo. 
